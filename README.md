@@ -11,6 +11,9 @@
 직접 Component를 만들어서 아래의 홈페이지와 같은 페이지를 구현해보세요.
 
 https://getbootstrap.com/docs/4.3/examples/album/
+![image](https://github.com/hyoring030/fe-react-clone-coding/assets/112244094/bb47719a-ae88-4e77-9bb0-0dd9a32fa74a)
+
+
 
 <br/>
 
